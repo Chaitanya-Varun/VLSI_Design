@@ -1,0 +1,30 @@
+Circuit: * C:\Users\CHAITANYA VARUN\Desktop\my_files\Semester_5\VLSI Design\Assignment-1\Problem-2\Prob_2b.asc
+
+Direct Newton iteration for .op point succeeded.
+Semiconductor Device Operating Points:
+                        --- Diodes ---
+Name:      d2          d1
+Model:   d_ideal     d_ideal
+Id:      5.64e-04    5.64e-04
+Vd:      1.22e-01    1.22e-01
+Req:     8.01e+01    8.01e+01
+CAP:     0.00e+00    0.00e+00
+
+
+
+Date: Sun Oct 24 18:45:11 2021
+Total elapsed time: 0.067 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 9
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 150 bytes object code size
+Matrix Compiler2: 321 bytes object code size
